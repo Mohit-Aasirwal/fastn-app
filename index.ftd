@@ -41,8 +41,8 @@ cta-item1-link: https://techie.design
 ;; -----------------------------------------------------
 
 -- basetext.base-text:
-heading: Find Best of photos
-description: Photos that suits your needs
+heading: Introducing SnapSnag
+description: : Unleash the Visual Delight!
 
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
@@ -63,19 +63,42 @@ spacing.fixed.px: 20
 color: white
 padding-bottom.px:10
 
-👨 Myself Mustafa Azad.Currently, computer science undergraduate studying at IET-DAVV in Indore. I'm always interested by programming and have a strong desire to learn about new technologies and create fascinating and innovative products. I am an eager and inquisitive guy that works hard and is driven to expand my understanding of real-world applications.
+Are you ready to embark on a captivating journey through the boundless realm of imagery? Look no further! SnapSnag is your ultimate gateway to a mesmerizing world of random photos that will leave you breathless and inspired.
 
 -- ftd.text: 
 color: white
 padding-bottom.px:10
 
-🧑‍🏫 I am a Full Stack Developer, Open-Sourcer, Blockchain Enthusiast, and UX/UI Designer who enjoys building SaaS products and microservices apps as well as creating viable design systems. My extensive knowledge of frontend and backend application structure and architecture enables me to create sturdy and scalable products based on basic ideas. I can deliver engaging and intuitive designs that provide seamless user experiences by leveraging design principles.
+With SnapSnag, the power to discover breathtaking visual treasures is at your fingertips. Seamlessly 
+blending innovation and aesthetics, this sensational web application delivers an exhilarating experience unlike any other. Whether you're seeking artistic inspiration, a momentary escape, or simply a delightful visual surprise, SnapSnag is here to whisk you away.
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature5.jpg
+margin-bottom.px: 80
+border-radius.px: 10
 
 -- ftd.text:
 color: white
 padding-bottom.px:10
 
-🎯 On a daily basis, I work with Javascript and Typescript, both professionally and on personal projects. I've actively participated in several hackathons and open-source contribution programmes as both a participant and a mentor, and I've taken community sessions to aid with community building, team leadership, and diverse software development approaches.
+Dive into the vast reservoir of captivating photographs carefully curated from all corners of the globe. Each click promises a new adventure as you unveil an exquisite masterpiece, a candid moment frozen in time, or a breathtaking landscape that ignites your wanderlust. With our intelligent randomization algorithm, no two journeys through SnapSnag are ever the same.
+
+The intuitive interface of SnapSnag ensures a seamless browsing experience that effortlessly adapts to your preferences. Take a deep breath, relax, and immerse yourself in a stream of stunning visuals. Whether you're an avid photographer, a design enthusiast, or simply someone with an appreciation for beauty, SnapSnag offers something extraordinary for everyone.
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.5.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.text:
+color: white
+padding-bottom.px:10
+
+With the click of a button, download and save these captivating snapshots to your personal collection. Preserve those awe-inspiring moments forever, and revisit them whenever you need a dose of inspiration or a touch of tranquility. Share your newfound gems with friends, family, and the world, spreading the joy that only visual marvels can bring.
+
+So, are you ready to embark on a thrilling exploration of serendipitous imagery? Unleash your curiosity and join us on SnapSnag, where every click is an invitation to a world brimming with beauty and wonder. Get ready to be captivated, astonished, and inspired. Welcome to SnapSnag, your gateway to the endless realm of random photos!
 
 ;; --------------------------------------------------------------
 ;; --------------------------------------------------------------
@@ -83,7 +106,7 @@ padding-bottom.px:10
 ;; ********** Footer **********
 
 -- footer.footer:
-title: Mustafa Azad | Copyright © 2023
+title: Mohit Aasirwal | Copyright © 2023
 link: /
 
 -- end: footer.footer
