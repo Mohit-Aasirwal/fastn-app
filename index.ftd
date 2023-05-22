@@ -52,7 +52,7 @@ spacing.fixed.px: 170
 
 -- ftd.image:
 width.fixed.px: 400
-src: $assets.files.images.read.png
+src: $assets.files.images.1.jpg
 margin-bottom.px: 80
 border-radius.px: 10
 
@@ -92,28 +92,28 @@ link: /
 
 ;; ********** Social Buttons **********
 
--- ftd.row:
--- social.social-button-wrapper:
-link: https://www.linkedin.com/in/mustafa-azad-4128ba225/
-image: $assets.files.images.linkedin.png
+;; -- ftd.row:
+;; -- social.social-button-wrapper:
+;; link: https://www.linkedin.com/in/mustafa-azad-4128ba225/
+;; image: $assets.files.images.linkedin.png
 
--- social.social-button-wrapper:
-link: twitter.com/MUSTAFAAZAD2003
-image: $assets.files.images.twitter.png
+;; -- social.social-button-wrapper:
+;; link: twitter.com/MUSTAFAAZAD2003
+;; image: $assets.files.images.twitter.png
 
--- social.social-button-wrapper:
-link: https://github.com/Mustafa-Azad025
-image: $assets.files.images.github.png
+;; -- social.social-button-wrapper:
+;; link: https://github.com/Mustafa-Azad025
+;; image: $assets.files.images.github.png
 
--- social.social-button-wrapper:
-link: https://www.youtube.com/@safetycruncher1301
-image: $assets.files.images.youtube.png
+;; -- social.social-button-wrapper:
+;; link: https://www.youtube.com/@safetycruncher1301
+;; image: $assets.files.images.youtube.png
 
--- social.social-button-wrapper:
-link: mailto:mustafaazad533@gmail.com
-image: $assets.files.images.mail.png
+;; -- social.social-button-wrapper:
+;; link: mailto:mustafaazad533@gmail.com
+;; image: $assets.files.images.mail.png
 
--- end: ftd.row
+;; -- end: ftd.row
 
 -- end: layout.base-layout
 -- end: ftd.container
