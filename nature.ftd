@@ -1,0 +1,52 @@
+-- import: mohit-aasirwal.github.io/fastn-app/assets
+-- import: fifthtry.github.io/doc-site as ds
+-- import: fastn-community.github.io/dark-flame-cs as my-cs
+
+-- ds.page: Nature
+site-logo: $assets.files.images.logo.png
+colors: $my-cs.main
+
+
+-- ftd.column:
+align-self: center
+-- ftd.text: Nature and Vibes!
+color: white
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature1.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature2.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature3.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature4.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature5.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- ftd.image:
+width.fixed.px: 400
+src: $assets.files.images.nature6.jpg
+margin-bottom.px: 80
+border-radius.px: 10
+
+-- end: ftd.column
+-- end: ds.page 
