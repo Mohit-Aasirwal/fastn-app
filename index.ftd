@@ -29,9 +29,9 @@ logoURL: /
 header-item1: Home
 header-item2: Space
 header-item3: Nature
-header-item1-link: /
-header-item2-link: /space
-header-item3-link: /nature
+header-item1-link: /fastn-app/
+header-item2-link: /fastn-app/space
+header-item3-link: /fastn-app/nature
 cta-item1: Contact
 cta-item1-link: https://techie.design
 
